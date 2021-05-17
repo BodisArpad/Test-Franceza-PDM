@@ -1,0 +1,288 @@
+[
+  {
+    "type" : "Forme de salut",
+    "word" : "Selectati forma de salut corecta:",
+    "answerlist": {
+      "a1" : "Saloue",
+      "a2" : "Ciao",
+      "a3" : "Bonjour"
+    },
+    "answer" : "Bonjour"
+  },
+  {
+    "type" : "Forme de salut",
+    "word" : "Ce salut folosim in timpul serii?",
+    "answerlist": {
+      "a1" : "Bonjour",
+      "a2" : "Bonsoir",
+      "a3" : "Bonne nuit"
+    },
+    "answer" : "Bonsoir"
+  },
+  {
+    "type" : "Forme de salut",
+    "word" : "Ce salut folosim cand plecam?",
+    "answerlist": {
+      "a1" : "Arivederci",
+      "a2" : "Au revoire",
+      "a3" : "Adio"
+    },
+    "answer" : "Au revoire"
+  },
+  {
+    "type" : "Obiecte scolare",
+    "word" : "Creion in limba franceza este:",
+    "answerlist": {
+      "a1" : "Crayon",
+      "a2" : "Creione",
+      "a3" : "Creion"
+    },
+    "answer" : "Crayon"
+  },
+  {
+    "type" : "Obiecte scolare",
+    "word" : "Penar in limba franceza este",
+    "answerlist": {
+      "a1" : "Plumier",
+      "a2" : "Penar",
+      "a3" : "Portstylo"
+    },
+    "answer" : "Plumier"
+  },
+
+
+
+  {
+    "type" : "Obiecte scolare",
+    "word" : "Rigla sau liniarul in limba franceza este",
+    "answerlist": {
+      "a1" : "regle",
+      "a2" : "linier",
+      "a3" : "suglinier"
+    },
+    "answer" : "regle"
+  },
+  {
+    "type" : "Obiecte scolare",
+    "word" : "Carte in limba franceza este",
+    "answerlist": {
+      "a1" : "cart",
+      "a2" : "liver",
+      "a3" : "ping"
+    },
+    "answer" : "liver"
+  },
+  {
+    "type" : "Animale",
+    "word" : "Pisica in limba franceza se numeste:",
+    "answerlist": {
+      "a1" : "chat",
+      "a2" : "chien",
+      "a3" : "chevaux"
+    },
+    "answer" : "chat"
+  },
+  {
+    "type" : "Animale",
+    "word" : "Puiul in limba franceza se numeste:",
+    "answerlist": {
+      "a1" : "pui",
+      "a2" : "pule",
+      "a3" : "cocle"
+    },
+    "answer" : "pule"
+  },
+  {
+    "type" : "Animale",
+    "word" : "porcul in limba franceza se numeste:",
+    "answerlist": {
+      "a1" : "pork",
+      "a2" : "cochon",
+      "a3" : "gochon"
+    },
+    "answer" : "cochon"
+  },
+  {
+    "type" : "Animale",
+    "word" : "Calul in limba franceza se numeste:",
+    "answerlist": {
+      "a1" : "cheval",
+      "a2" : "vache",
+      "a3" : "lapin;"
+    },
+    "answer" : "cheval"
+  },
+  {
+    "type" : "Animale",
+    "word" : "Magarul in limba franceza se numeste:",
+    "answerlist": {
+      "a1" : "bobi",
+      "a2" : "ane",
+      "a3" : "mogue"
+    },
+    "answer" : "ane"
+  },
+
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 1 este:",
+    "answerlist": {
+      "a1" : "one",
+      "a2" : "une",
+      "a3" : "un"
+    },
+    "answer" : "un"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 2 este",
+    "answerlist": {
+      "a1" : "deux",
+      "a2" : "done",
+      "a3" : "dix"
+    },
+    "answer" :"deux"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 3 este",
+    "answerlist": {
+      "a1" : "tres",
+      "a2" : "trez",
+      "a3" : "trois"
+    },
+    "answer" : "trois"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 4 este",
+    "answerlist": {
+      "a1" : "quatre",
+      "a2" : "qouattro",
+      "a3" : "quart"
+    },
+    "answer" : "quatre"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 5 este",
+    "answerlist": {
+      "a1" : "cinq",
+      "a2" : "cinque",
+      "a3" : "ceng"
+    },
+    "answer" : "cinq"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 6 este",
+    "answerlist": {
+      "a1" : "six",
+      "a2" : "sez",
+      "a3" : "seiez"
+    },
+    "answer" : "six"
+  },
+  {
+    "type" : "Numearal",
+    "word" : "Numarul 7 este",
+    "answerlist": {
+      "a1" : "set",
+      "a2" : "seven",
+      "a3" : "sept"
+    },
+    "answer" : "sept"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 8 este",
+    "answerlist": {
+      "a1" : "huit",
+      "a2" : "ouit",
+      "a3" : "ouite"
+    },
+    "answer" : "huit"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 9 este",
+    "answerlist": {
+      "a1" : "neuf",
+      "a2" : "nueve",
+      "a3" : "nein"
+    },
+    "answer" : "neuf"
+  },
+  {
+    "type" : "Numeral",
+    "word" : "Numarul 10 este",
+    "answerlist": {
+      "a1" : "dix",
+      "a2" : "tent",
+      "a3" : "duxe"
+    },
+    "answer" : "dix"
+  },
+
+
+  {
+    "type" : "Reguli de pronuntie",
+    "word" : "Gruplul de litere 'oi' se pronunta ",
+    "answerlist": {
+      "a1" : "oa",
+      "a2" : "uoa",
+      "a3" : "ioa"
+    },
+    "answer" : "oa"
+  },
+  {
+    "type" : "Reguli de pronuntie",
+    "word" : "Grupul de litere'ai' se pronunta ",
+    "answerlist": {
+      "a1" : "e",
+      "a2" : "a",
+      "a3" : "i"
+    },
+    "answer" : "e"
+  },
+  {
+    "type" : "Reguli de pronuntie",
+    "word" : "Grupul de litere 'ou' se pronunta",
+    "answerlist": {
+      "a1" : "u",
+      "a2" : "ua",
+      "a3" : "o"
+    },
+    "answer" : "u"
+  },
+  {
+    "type" : "Reguli de pronuntie",
+    "word" : "Grupul de litere 'eau; se pronunta",
+    "answerlist": {
+      "a1" : "e",
+      "a2" : "o",
+      "a3" : "u"
+    },
+    "answer" : "o"
+  },
+  {
+    "type" : "Reguli de pronuntie",
+    "word" : "Grupul de litere 'aient' se pronunta",
+    "answerlist": {
+      "a1" : "e",
+      "a2" : "e",
+      "a3" : "o"
+    },
+    "answer" : "e"
+  },
+  {
+    "type" : "Reguli de pronuntie",
+    "word" : "Grupul de litere 'gn' se pronunta",
+    "answerlist": {
+      "a1" : "ni",
+      "a2" : "j",
+      "a3" : "ghe"
+    },
+    "answer" : "ni"
+  }
+]
